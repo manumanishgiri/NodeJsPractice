@@ -24,6 +24,10 @@
     "express": "^4.17.1"
   },
   "devDependencies": {
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.15",
+    "grunt": "^1.1.0",
+    "grunt-contrib-jshint": "^3.2.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "jshint-stylish": "^2.2.1"
   }
 }
